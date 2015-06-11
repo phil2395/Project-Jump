@@ -1,0 +1,172 @@
+.boxed {
+  border: 1px solid black;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  width:30em;
+  height:18em;
+  margin-top: -9em; /*set to a negative number 1/2 of your height*/
+  margin-left: -15em; /*set to a negative number 1/2 of your width*/
+  border: 1px solid #ccc;
+  background-color: #f3f3f3;
+  text-align: center;
+
+}
+.boxed1{
+  position:relative;
+  left: 0.5%;
+  top: 5.3em;
+  }
+
+.loginBox {
+	width: 15em;
+	height: 2em;	
+}
+.login {
+	position:relative;
+	left: 20%;
+	height: 8%;
+	background-color: white;
+}
+.intoBox
+{
+  position:relative;
+  left:40%;
+  color: red;
+  top:23em;
+}
+* { 
+  margin: 0; 
+  padding: 0; 
+}
+body { 
+  font: 14px/1.4 Georgia, Serif; 
+}
+#page-wrap {
+  margin: 50px;
+}
+p {
+  margin: 20px 0; 
+}
+
+  /* 
+  Generic Styling, for Desktops/Laptops 
+  */
+  table { 
+    border-collapse: collapse; 
+  
+  }
+  /* Zebra striping */
+  tr:nth-of-type(odd) { 
+    background: #eee; 
+  }
+  th { 
+    background: #333; 
+    color: white; 
+    font-weight: bold; 
+  }
+  td, th { 
+    padding: 6px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+  }
+  .box
+  {
+    border:1px solid black;
+    width:14%;
+    position: relative;
+    top:-7em;
+    background-color:white;
+  }
+  
+  h3 
+  {
+    color:white;
+    display:inline
+  }
+
+h2 
+  {
+    color:white;
+  }
+h1 
+  {
+    color:white;
+    
+  }
+body{
+   background-repeat: no-repeat;
+   background-size:cover;
+  background-image: -webkit-gradient(
+  linear,
+  right bottom,
+  right bottom,
+  color-stop(0, #171821),
+  color-stop(1, #0E7AE6)
+);
+background-image: -o-linear-gradient(left bottom, #171821 0%, #0E7AE6 100%);
+background-image: -moz-linear-gradient(left bottom, #171821 0%, #0E7AE6 100%);
+background-image: -webkit-linear-gradient(left bottom, #171821 0%, #0E7AE6 100%);
+background-image: -ms-linear-gradient(left bottom, #171821 0%, #0E7AE6 1100%);
+background-image: linear-gradient(to left bottom, #171821 0%, #0E7AE6 60%);
+}
+
+.right{
+    color:white;
+  display: block;
+font-size: 1.17em;
+margin-before: 1em;
+margin-after: 1em;
+margin-start: 0;
+margin-end: 0;
+font-weight: bold;
+position: relative;
+left:30%;
+top:-62.9em;
+}
+.morerightbox
+{
+position: relative;
+left:60%;
+top:-47em;
+}
+.rightbox
+{
+position: relative;
+left:30%;
+top:-93.7em;
+}
+.moreright{
+  color:white;
+  display: block;
+font-size: 1.17em;
+margin-before: 1em;
+margin-after: 1em;
+margin-start: 0;
+margin-end: 0;
+font-weight: bold;
+position: relative;
+left:60%;
+top:-31.7em;
+}
+.button1
+{
+  position: relative;
+  left:55.5%;
+  width:4.5%;
+}
+.subber{
+  border: 1px solid #006;
+  border: 1px solid black;
+  position:absolute;
+  top:5%;
+  left: 0.1%;
+  height: 10%;
+  width: 14%;
+  border: 1px solid #ccc;
+  background-color: #f3f3f3;
+  text-align: center;
+}
+#table1 {
+  float:left;
+}
